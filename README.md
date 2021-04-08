@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... Suporte e analise de sistema em ADVPL/SQL 
+- 🌱 I’m currently learning ... Desenvolvimento Android com Java
+- 📫 How to reach me: ... https://linktr.ee/rstiba
 
 <!--
 **rst-tec/rst-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
