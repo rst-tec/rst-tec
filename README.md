@@ -1,5 +1,5 @@
 ### Olá muito prazer! 👋
-- 🔭 Atualmente trabalho em Análise e suporte do sistema ADVPL / SQL
+- 🔭 Atualmente trabalho em Análise e suporte de sistema Protheus da Totvs com ADVPL/SQL
 - 🌱 Estou aprendendo e desenvolvendo alguns aplicativos android com JAVA
 - 🌱 Estou iniciando alguns estudo em JavaScript
 - 📫 Você pode entrar em contato comigo por aqui: https://linktr.ee/rstiba
