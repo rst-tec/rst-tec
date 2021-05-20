@@ -1,7 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on: ADVPL / SQL system analysis and support 
-- 🌱 I’m currently learning: Android development with Java
-- 📫 How to reach me: https://linktr.ee/rstiba
+### Olá muito prazer! 👋
+- 🔭 Atualmente trabalho em Análise e suporte do sistema ADVPL / SQL
+- 🌱 Estou aprendendo e desenvolvendo alguns aplicativos android com JAVA
+- 🌱 Estou iniciando alguns estudo em JavaScript
+- - 📫 Você pode entrar em contato comigo por aqui: https://linktr.ee/rstiba
 
 <!--
 **rst-tec/rst-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
