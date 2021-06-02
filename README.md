@@ -2,7 +2,7 @@
 - :office: Atualmente trabalho em Análise e suporte de sistema Protheus da Totvs com ADVPL/SQL
 - :iphone: Estou aprendendo e desenvolvendo alguns aplicativos android com JAVA
 - :computer: Estou iniciando alguns estudos em JavaScript
-- - :iphone: Estou iniciando alguns estudos em React Native 
+- :iphone: Estou iniciando alguns estudos em React Native 
 - 📫 Você pode entrar em contato comigo por aqui: https://linktr.ee/rstiba
 
 <!--
